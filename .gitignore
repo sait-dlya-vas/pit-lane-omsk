@@ -1,0 +1,8 @@
+*.md
+raw/
+lab/
+images.json
+.publish/
+video/
+фото-с-карт/
+assets/wheel-*.webp
